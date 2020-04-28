@@ -1,0 +1,26 @@
+,County,Neighborhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Miami,Allapattah,25.815,-80.224,0,Department Store,Lounge,French Restaurant,Dessert Shop,Diner,Discount Store,Dive Bar,Dog Run,Donut Shop,Empanada Restaurant
+1,Miami,Arts & Entertainment District,25.799,-80.19,1,Restaurant,Gym,Ice Cream Shop,Spa,Beach,Cupcake Shop,Moving Target,Paper / Office Supplies Store,Park,Pizza Place
+2,Miami,Brickell,25.758,-80.193,1,Hotel,Italian Restaurant,Japanese Restaurant,Café,Sandwich Place,Seafood Restaurant,Juice Bar,Bar,Bank,Harbor / Marina
+3,Miami,Buena Vista,25.813,-80.192,1,Italian Restaurant,Jewelry Store,Café,Boutique,Ice Cream Shop,Big Box Store,Indian Restaurant,Leather Goods Store,Furniture / Home Store,Mediterranean Restaurant
+4,Miami,Coconut Grove,25.712,-80.257,2,Park,American Restaurant,Boat or Ferry,Event Space,Food Truck,Food,Flea Market,Fish Market,Fast Food Restaurant,Wings Joint
+5,Miami,Coral Way,25.75,-80.283,1,Liquor Store,Pharmacy,Golf Course,Seafood Restaurant,Burger Joint,Café,Mobile Phone Shop,Dive Bar,Historic Site,Dog Run
+6,Miami,Design District,25.813,-80.193,1,Italian Restaurant,Jewelry Store,Café,Boutique,Ice Cream Shop,Big Box Store,Indian Restaurant,Leather Goods Store,Furniture / Home Store,Mediterranean Restaurant
+7,Miami,Edgewater,25.802,-80.19,1,Restaurant,Sandwich Place,Cuban Restaurant,Peruvian Restaurant,Gym,Pizza Place,Ice Cream Shop,Art Gallery,Breakfast Spot,Cupcake Shop
+8,Miami,Flagami,25.762,-80.316,1,Seafood Restaurant,Department Store,Bakery,Spanish Restaurant,Fast Food Restaurant,Latin American Restaurant,Peruvian Restaurant,Dive Bar,Dog Run,Donut Shop
+9,Miami,Grapeland Heights,25.792,-80.258,1,Hotel Pool,Gym,Lounge,Bar,Restaurant,Bakery,Golf Course,Gym / Fitness Center,Hotel,Dive Bar
+10,Miami,Health District,25.7928,80.2099,1,Seafood Restaurant,Fish Market,Hotel,BBQ Joint,Restaurant,Spanish Restaurant,Soccer Field,Gym,American Restaurant,Gun Range
+11,Miami,Liberty City,25.832,-80.225,4,Southern / Soul Food Restaurant,French Restaurant,Department Store,Dessert Shop,Diner,Discount Store,Dive Bar,Dog Run,Donut Shop,Empanada Restaurant
+12,Miami,Little Haiti,25.824,-80.191,1,Ice Cream Shop,Shopping Mall,Pub,Pizza Place,Pilates Studio,Pharmacy,Liquor Store,Italian Restaurant,Gym,Gas Station
+13,Miami,Little Havana,25.773,-80.215,1,Latin American Restaurant,Mexican Restaurant,Pharmacy,Perfume Shop,Grocery Store,Discount Store,Shoe Store,Taco Place,Restaurant,Donut Shop
+14,Miami,Lummus Park,25.777,-80.201,1,Seafood Restaurant,Fish Market,Hotel,BBQ Joint,Restaurant,Spanish Restaurant,Soccer Field,Gym,American Restaurant,Gun Range
+15,Miami,Midtown,25.807,-80.193,1,Italian Restaurant,Coffee Shop,Gym / Fitness Center,Indian Restaurant,Peruvian Restaurant,Moving Target,Breakfast Spot,Big Box Store,Mexican Restaurant,Food Truck
+16,Miami,Overtown,25.787,-80.201,1,Wings Joint,Athletics & Sports,Southern / Soul Food Restaurant,Pool,Aquarium,Dance Studio,Dessert Shop,Diner,Discount Store,Dive Bar
+17,Miami,Park West,25.785,-80.193,1,Nightclub,Café,Lounge,Theater,Bar,Pizza Place,Gym / Fitness Center,Event Space,Flea Market,Coffee Shop
+18,Miami,The Roads,25.756,-80.207,1,Lawyer,Health & Beauty Service,Italian Restaurant,Gas Station,Latin American Restaurant,Moving Target,Discount Store,Dive Bar,Dog Run,Donut Shop
+19,Miami,Upper Eastside,25.83,-80.183,1,Pizza Place,Sushi Restaurant,Motel,Furniture / Home Store,Italian Restaurant,Gas Station,Tennis Court,Fast Food Restaurant,Event Space,Empanada Restaurant
+20,Miami,Venetian Islands,25.791,-80.161,2,Park,Lounge,Boat or Ferry,Empanada Restaurant,Food,Flea Market,Fish Market,Fast Food Restaurant,Event Space,Wings Joint
+21,Miami,Virginia Key,25.736,-80.155,3,Beach,Wings Joint,French Restaurant,Dessert Shop,Diner,Discount Store,Dive Bar,Dog Run,Donut Shop,Empanada Restaurant
+22,Miami,West Flagler,25.775,-80.243,1,Latin American Restaurant,Bakery,Pharmacy,Cuban Restaurant,Concert Hall,Rental Service,Comfort Food Restaurant,Gas Station,Fast Food Restaurant,Event Space
+23,Miami,Wynwood,25.804,-80.199,1,Art Gallery,Bar,Café,Theater,Food Truck,Ice Cream Shop,Mexican Restaurant,Cocktail Bar,Public Art,Peruvian Restaurant
+,Miami,Downtown,25.774,-80.193,1,Beach,Wings Joint,French Restaurant,Dessert Shop,Diner,Discount Store,Dive Bar,Leather Goods Store,Furniture / Home Store,Mediterranean Restaurant
